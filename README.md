@@ -1,16 +1,17 @@
-# scraping
+# Quotes App 
 
-A new Flutter project.
+A full quotes app with flutter. Data is scraped from http://quotes.toscrape.com/
 
-## Getting Started
+# Youtube
+* Full Youtube tutorial is available at my channel: https://youtu.be/S4lB5Q9wM_s
+## Features
 
-This project is a starting point for a Flutter application.
+* Users can view quotes in 4 different categories
+* Users csn see th quote with quote and author
+* Neat UI
+* Fast and data is scraped with flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="screenshots/
+Screenshot_1596971072.png" height=400em> <img src="screenshots/Screenshot_1596971056.png" height=400em> 
+<img src="screenshots/Screenshot_1596971052.png" height=400em>
