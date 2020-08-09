@@ -12,6 +12,5 @@ A full quotes app with flutter. Data is scraped from http://quotes.toscrape.com/
 * Fast and data is scraped with flutter
 
 ## Screenshots
-<img src="screenshots/
-Screenshot_1596971072.png" height=400em> <img src="screenshots/Screenshot_1596971056.png" height=400em> 
-<img src="screenshots/Screenshot_1596971052.png" height=400em>
+<img src="screenshots/Screenshot_1596971052.png" height=400em> <img src="screenshots/Screenshot_1596971056.png" height=400em> 
+<img src="screenshots/Screenshot_1596971072.png" height=400em>
